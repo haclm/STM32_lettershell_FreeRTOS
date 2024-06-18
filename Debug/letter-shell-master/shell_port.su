@@ -1,0 +1,5 @@
+../letter-shell-master/shell_port.c:35:7:userShellWrite	24	static
+../letter-shell-master/shell_port.c:51:7:userShellRead	24	static
+../letter-shell-master/shell_port.c:75:5:userShellLock	16	static
+../letter-shell-master/shell_port.c:89:5:userShellUnlock	16	static
+../letter-shell-master/shell_port.c:100:6:userShellInit	8	static

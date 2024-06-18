@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:81:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:126:6:StartDefaultTask	1
+../Core/Src/freertos.c:145:6:StartTask02	1
+../Core/Src/freertos.c:156:5:LED_ON	1
+../Core/Src/freertos.c:167:6:HAL_UART_RxCpltCallback	2

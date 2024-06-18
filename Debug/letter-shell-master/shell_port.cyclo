@@ -1,0 +1,5 @@
+../letter-shell-master/shell_port.c:35:7:userShellWrite	1
+../letter-shell-master/shell_port.c:51:7:userShellRead	2
+../letter-shell-master/shell_port.c:75:5:userShellLock	1
+../letter-shell-master/shell_port.c:89:5:userShellUnlock	1
+../letter-shell-master/shell_port.c:100:6:userShellInit	1
